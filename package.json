@@ -37,5 +37,6 @@
   "bugs": {
     "url": "https://github.com/fredricrylander/base62/issues"
   },
-  "homepage": "https://github.com/fredricrylander/base62#readme"
+  "homepage": "https://github.com/fredricrylander/base62#readme",
+  "types": "./types/index.d.ts"
 }
